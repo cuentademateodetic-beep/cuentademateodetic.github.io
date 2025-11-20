@@ -1,0 +1,19 @@
+.h1{ color: rgb(20,200,200);
+          width: 2000px;
+          height: 60px;
+font-size:30px;
+font-style: cursive;
+margin: 10px;}
+    body{background-color: black;}
+ tbody{background-color: gray;}
+    p{color: white;}
+    table{color: yellow;}
+th{color:red;}
+caption{color:lime;
+margin-right:90px;}
+h2{color: orange;}
+.indice{color: rgb(255,255,255);
+font-size:40px;
+font-style: cursive;}
+.Introduccion{font-size:30px;
+margin:30px;}
